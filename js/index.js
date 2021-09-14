@@ -18,3 +18,6 @@ if(inputMoney > allExpenditures){
 }else{
    alert(`${inputName} afsus sizda yetarlicha pul yo'q ekan ozroq pul to'plang! :( ` )
 }
+
+
+
